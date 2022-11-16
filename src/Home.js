@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import CarouselComponent from "./Carousel";
+import CarouselComponent from "./CarouselComponent";
 import ItemList from "./ItemList";
 import cartContext from "./CartContext";
 
